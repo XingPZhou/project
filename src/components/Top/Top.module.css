@@ -1,0 +1,27 @@
+.wrap {
+  background-color: #fff;
+  width: 100%;
+  height: 3rem;
+  border-bottom: 2px solid #f1f1f1;
+  box-shadow: 0 0 1px 1px #f1f1f1;
+}
+.container {
+  font-size: 16px;
+  color: #888;
+  padding-top: 15px;
+  width: 60%;
+  margin: 0 auto;
+}
+.container > ul {
+  float: left;
+  display: flex;
+  list-style: none;
+}
+.container > ul > li {
+  padding-left: 1rem;
+}
+
+.biaoqian {
+  float: right;
+  padding-right: 20px;
+}
